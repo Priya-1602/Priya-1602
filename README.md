@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,100:1C77C3&text=PRIYADHARSHINI%20U&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Software%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25&text=PRIYADHARSHINI%20U&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Software%20Engineer%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;AWS+Cloud+Learner;Building+Intelligent+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;AWS+Cloud+Learner;Building+Intelligent+Software+Solutions"/>
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/u-priyadharshini/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Priya-1602">
@@ -22,25 +22,17 @@
 
 # 👩‍💻 About Me
 
-<div align="left">
+🎓 Software Engineer passionate about building intelligent software.
 
-🎓 **Software Engineer**
+🤖 Interested in **Artificial Intelligence, Machine Learning, NLP and Computer Vision**
 
-🚀 Passionate about **Artificial Intelligence, Machine Learning & Software Engineering**
+☁️ Learning and building solutions using **AWS Cloud**
 
-☁️ Exploring **AWS Cloud** and scalable cloud solutions
+💻 Building **Full Stack Applications** using **Python, Flask, React & MySQL**
 
-💻 Building **Full-Stack Applications** using **Python, Flask, React & MySQL**
+🧠 Currently exploring **DSA, System Design & Large Language Models**
 
-🧠 Currently learning **Data Structures & Algorithms, System Design & Large Language Models**
-
-🎯 Interested in **Backend Engineering, Generative AI, NLP & Computer Vision**
-
-🌱 Always learning, building and improving through real-world projects.
-
-</div>
-
----
+🚀 I enjoy solving real-world problems through AI and software engineering.
 
 ---
 
@@ -54,53 +46,13 @@
 
 ---
 
-# 🚀 Areas of Interest
-
-<table>
-
-<tr>
-
-<td>
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-📄 Natural Language Processing
-
-👁️ Computer Vision
-
-📊 Deep Learning
-
-</td>
-
-<td>
-
-🌐 Full Stack Development
-
-⚙️ Backend Development
-
-☁️ AWS Cloud
-
-💾 Database Design
-
-📈 Software Engineering
-
-</td>
-
-</tr>
-
-</table>
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priya-1602&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Priya-1602&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-1602&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-1602&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -116,29 +68,37 @@
 
 # 🚀 Featured Projects
 
-| Project | Tech Stack |
-|---------|------------|
-| 🧠 **Brain Tumor Classification & Analysis** | TensorFlow • CNN • Python |
-| 🍔 **HotByte Food Delivery System** | Flask • React • MySQL |
-| 🥗 **AI Food Adulteration Detection** | Python • Flask • AI |
-| 📄 **AI Document Summarization** | Python • NLP • TF-IDF |
-| ☁️ **AWS ML Anomaly Detection** | EC2 • Lambda • CloudWatch • SNS |
-| 🤖 **GTM Strategy Chatbot** | Flask • NLTK • MySQL |
+### 🧠 Brain Tumor Classification & Analysis
+> TensorFlow • CNN • Explainable AI • Python
 
 ---
 
-# 🌱 Currently Exploring
-
-- 🤖 Artificial Intelligence
-- ☁️ AWS Cloud
-- 📚 Data Structures & Algorithms
-- 🧠 Large Language Models (LLMs)
-- ⚙️ System Design
-- 🚀 Scalable Backend Engineering
+### 🍔 HotByte Food Delivery Platform
+> Flask • React • MySQL • REST APIs
 
 ---
 
-# 🏅 GitHub Activity
+### 🥗 AI Food Adulteration Detection
+> Python • Flask • Artificial Intelligence
+
+---
+
+### 📄 AI Document Summarization
+> Python • NLP • TF-IDF • Scikit-Learn
+
+---
+
+### ☁️ AWS ML Anomaly Detection
+> AWS EC2 • Lambda • CloudWatch • SNS • Isolation Forest
+
+---
+
+### 🤖 GTM Strategy Chatbot
+> Flask • NLTK • MySQL • REST APIs
+
+---
+
+# 📈 GitHub Activity
 
 <div align="center">
 
@@ -148,37 +108,20 @@
 
 ---
 
-# 📈 Coding Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priya-1602&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📌 2026 Goals
-
-- ✅ Master Data Structures & Algorithms
-- ✅ Build Production-Ready AI Applications
-- ✅ Learn Advanced AWS Services
-- ✅ Contribute to Open Source
-- ✅ Build End-to-End Full Stack Projects
-- ✅ Become a Software Engineer
-
----
-
-# 🌍 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/u-priyadharshini/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/Priya-1602">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </div>
@@ -189,6 +132,6 @@
 
 ### ⭐ Always Learning • Always Building • Always Improving ⭐
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,25"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0B132B,100:1C77C3"/>
+</div>
