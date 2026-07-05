@@ -22,12 +22,9 @@
 
 # 👩‍💻 About Me
 
-<table>
-<tr>
+<div align="left">
 
-<td width="60%">
-
-### 🎓 Software Engineer
+🎓 **Software Engineer**
 
 🚀 Passionate about **Artificial Intelligence, Machine Learning & Software Engineering**
 
@@ -35,22 +32,15 @@
 
 💻 Building **Full-Stack Applications** using **Python, Flask, React & MySQL**
 
-🧠 Currently learning **Data Structures & Algorithms, System Design & LLMs**
+🧠 Currently learning **Data Structures & Algorithms, System Design & Large Language Models**
 
 🎯 Interested in **Backend Engineering, Generative AI, NLP & Computer Vision**
 
 🌱 Always learning, building and improving through real-world projects.
 
-</td>
+</div>
 
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-1602&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
+---
 
 ---
 
