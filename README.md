@@ -1,86 +1,118 @@
-<h1 align="center">Hi 👋, I'm Priyadharshini U</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer | AI & Machine Learning | Full-Stack Developer | AWS Cloud
-</h3>
+# Hi there, I'm Priyadharshini 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;AWS+Cloud+Learner;Building+Intelligent+Software+Solutions" />
+
+<p>
+<a href="https://www.linkedin.com/in/u-priyadharshini/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Priya-1602">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Priya-1602&style=for-the-badge&color=blue"/>
+
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Passionate about building intelligent software solutions using AI & Machine Learning.
+
+☁️ Exploring Cloud Computing with AWS.
+
+🚀 Interested in Full-Stack Development and scalable backend systems.
+
+🧠 Currently improving my Data Structures & Algorithms skills.
+
+🎯 Goal: Build impactful AI products that solve real-world problems.
+
+---
+
+# 🚀 Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/u-priyadharshini/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Priya-1602" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,mysql,postgres,aws,tensorflow,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-I'm a **Software Engineer** passionate about building intelligent and scalable software solutions using **Artificial Intelligence, Machine Learning, Full-Stack Development, and Cloud Technologies**.
-
-I enjoy solving real-world problems through software engineering and continuously explore modern technologies in **AI, NLP, Deep Learning, Cloud Computing, and Software Engineering**.
-
----
-
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priya-1602&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-1602&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priya-1602&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-1602&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Priya-1602&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Priya-1602&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,mysql,postgres,aws,git,github,vscode,tensorflow"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priya-1602&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🌟 Featured Projects
 
-🍔 **HotByte – Full Stack Food Delivery Application**
+🧠 Brain Tumor Classification using Deep Learning
 
-🧠 **Brain Tumor Classification using Deep Learning**
+🥗 AI Food Adulteration Detection
 
-🥗 **AI Food Adulteration Detection System**
+🍔 HotByte - Full Stack Food Ordering System
 
-📄 **AI-Powered Document Summarization**
+📄 AI-Powered Document Summarization
 
-☁️ **AWS ML Anomaly Detection System**
+☁️ AWS ML Anomaly Detection
 
-🤖 **NLP-Based Go-to-Market Strategy Chatbot**
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Data Structures & Algorithms
-- System Design
-- Generative AI
-- Large Language Models (LLMs)
-- AWS Cloud Services
-- Scalable Software Architecture
+🤖 NLP Go-To-Market Strategy Chatbot
 
 ---
 
-## 📫 Connect with Me
+# 📚 Currently Learning
 
-<p align="left">
+✔️ Data Structures & Algorithms
 
-<a href="https://www.linkedin.com/in/u-priyadharshini/" target="_blank">
+✔️ System Design
+
+✔️ Generative AI
+
+✔️ Large Language Models
+
+✔️ AWS Cloud Services
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/u-priyadharshini/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/Priya-1602" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -88,11 +120,15 @@ I enjoy solving real-world problems through software engineering and continuousl
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Priya-1602&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya-1602&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-<p align="center">
-⭐ <b>Always Learning • Always Building • Always Improving</b> ⭐
-</p>
+<div align="center">
+
+### ⭐ Always Learning • Always Building • Always Improving ⭐
+
+</div>
