@@ -18,31 +18,34 @@
 
 </div>
 
----
-
 # 👩‍💻 About Me
 
-```python
-class Priyadharshini:
+<table>
+<tr>
+<td>
 
-    role = "Software Engineer"
+🎓 **Software Engineer**
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Cloud Computing",
-        "Full Stack Development"
-    ]
+🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
-    currently_learning = [
-        "DSA",
-        "System Design",
-        "LLMs",
-        "AWS"
-    ]
-```
+☁️ Exploring **AWS Cloud**
 
----
+💻 Building **Full-Stack Applications**
+
+🧠 Currently learning **DSA, System Design & LLMs**
+
+🚀 Goal: Build intelligent software that solves real-world problems.
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-1602&layout=compact&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
 
 # 💻 Tech Stack
 
