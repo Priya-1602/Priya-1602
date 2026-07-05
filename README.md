@@ -4,69 +4,59 @@
 Software Engineer | AI & Machine Learning | Full-Stack Developer | AWS Cloud
 </h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/u-priyadharshini/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Priya-1602" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Software Engineer passionate about building intelligent and scalable software solutions using Artificial Intelligence, Machine Learning, and Cloud Technologies.
+I'm a **Software Engineer** passionate about building intelligent and scalable software solutions using **Artificial Intelligence, Machine Learning, Full-Stack Development, and Cloud Technologies**.
 
-I enjoy solving real-world problems through software engineering and continuously explore modern technologies in AI, NLP, Deep Learning, Full-Stack Development, and AWS Cloud.
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Programming Languages
-- Python
-- Java
-- JavaScript
-- SQL
-
-### 🤖 AI & Machine Learning
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Scikit-learn
-- TensorFlow
-- Pandas
-- NumPy
-
-### 🌐 Web Development
-- Flask
-- HTML
-- CSS
-- JavaScript
-- React
-
-### ☁️ Cloud
-- AWS
-- EC2
-- Lambda
-- CloudWatch
-- SNS
-- S3
-
-### 🛢 Database
-- MySQL
-- PostgreSQL
+I enjoy solving real-world problems through software engineering and continuously explore modern technologies in **AI, NLP, Deep Learning, Cloud Computing, and Software Engineering**.
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Statistics
 
-🍔 HotByte – Full Stack Food Delivery Application
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priya-1602&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-1602&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-🧠 Brain Tumor Classification using Deep Learning
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Priya-1602&theme=tokyonight&hide_border=true"/>
+</p>
 
-🥗 AI Food Adulteration Detection System
+---
 
-📄 AI-Powered Document Summarization
+## 💻 Tech Stack
 
-☁️ AWS ML Anomaly Detection
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,mysql,postgres,aws,git,github,vscode,tensorflow"/>
+</p>
 
-🤖 NLP-Based GTM Strategy Chatbot
+---
+
+## 🚀 Featured Projects
+
+🍔 **HotByte – Full Stack Food Delivery Application**
+
+🧠 **Brain Tumor Classification using Deep Learning**
+
+🥗 **AI Food Adulteration Detection System**
+
+📄 **AI-Powered Document Summarization**
+
+☁️ **AWS ML Anomaly Detection System**
+
+🤖 **NLP-Based Go-to-Market Strategy Chatbot**
 
 ---
 
@@ -76,15 +66,33 @@ I enjoy solving real-world problems through software engineering and continuousl
 - System Design
 - Generative AI
 - Large Language Models (LLMs)
-- Cloud Architecture
+- AWS Cloud Services
+- Scalable Software Architecture
 
 ---
 
 ## 📫 Connect with Me
 
-- LinkedIn: *https://www.linkedin.com/in/u-priyadharshini/*
-- GitHub: https://github.com/Priya-1602
+<p align="left">
+
+<a href="https://www.linkedin.com/in/u-priyadharshini/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Priya-1602" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-⭐ *Always learning. Always building.*
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Priya-1602&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+⭐ <b>Always Learning • Always Building • Always Improving</b> ⭐
+</p>
